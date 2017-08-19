@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin around the floating action button in CatalogActivity -->
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Common margin value used throughout the app -->
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="layoutMarginLeft4dp">4dp</dimen>
+    <dimen name="marginLeft2dp">2dp</dimen>
+    <dimen name="marginRight6dp">6dp</dimen>
+    <dimen name="marginRight2dp">2dp</dimen>
+
+    <!-- Image sizes displayed on Editor Layout-->
+    <dimen name="layoutWidth120dp">120dp</dimen>
+    <dimen name="layoutHeight160dp">160dp</dimen>
+
+    <dimen name="layoutWidth0dp">0dp</dimen>
+
+    <!--EditText field set height-->
+    <dimen name="layoutHeight30dp">30dp</dimen>
+
+    <!--Common text sizes-->
+    <dimen name="textSize13">13sp</dimen>
+    <dimen name="textSize14">14sp</dimen>
+
+    <!--Common padding used throughout the app -->
+    <dimen name="paddingLeft2dp">2dp</dimen>
+    <dimen name="paddingRight10dp">10dp</dimen>
+    <dimen name="padding6dp">6dp</dimen>
+</resources>

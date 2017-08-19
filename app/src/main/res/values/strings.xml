@@ -1,0 +1,70 @@
+<resources>
+    <!-- Name of the application -->
+    <string name="app_name">Schoolbook Inventory</string>
+
+    <!-- Title text for the empty view, which describes the book image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">No schoolbooks have been saved.</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a schoolbook [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding some books.</string>
+
+    <!-- Editor Activity Title for adding a new book text  -->
+    <string name="editor_activity_title_new_book">Add new book</string>
+
+    <!-- Editor Activity Title for editing book -->
+    <string name="editor_activity_title_edit_book">Edit book</string>
+
+    <!--Error message displayed when failed saving book-->
+    <string name="editor_insert_schoolbook_failed">Error with saving product</string>
+
+    <!-- Message displayed when saving book was successful-->
+    <string name="editor_insert_schoolbook_successful">Book has been saved</string>
+
+    <!-- Message displayed when update has been successful-->
+    <string name="editor_update_schoolbook_failed">Update has failed</string>
+
+    <!-- Message displayed when update has failed-->
+    <string name="editor_update_schoolbook_successful">Update has been successful</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current product [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current product [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current product [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current product [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Toast message in editor when current schoolbook was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_schoolbook_successful">Book deleted</string>
+
+    <!-- Toast message in editor when current schoolbook has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_schoolbook_failed">Error with deleting book</string>
+
+    <!-- Message appears, if book quantity is 0-->
+    <string name="negative_quantity_error">Should be at least one book</string>
+
+    <!-- TextView of supplier's pone number-->
+    <string name="supplier_phone">Supplier Phone: </string>
+
+    <!-- TextView of supplier's email-->
+    <string name="supplier_email">Supplier Email: </string>
+
+    <!--TextView of supplier Name-->
+    <string name="supplier_name">Supplier Name:</string>
+
+    <!-- TextView of Quantity-->
+    <string name="quantity_label">Quantity: </string>
+    
+    <!-- TextView of price-->
+    <string name="price_label">Price: </string>
+</resources>

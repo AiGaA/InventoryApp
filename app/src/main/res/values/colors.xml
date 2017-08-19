@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ef6c00</color>
+    <color name="colorPrimaryDark">#b53d00</color>
+    <color name="colorAccent">#ef6c00</color>
+
+    <!-- Primary color for the editor -->
+    <color name="editorColorPrimary">#40241a</color>
+
+    <!-- Primary dark color for the editor -->
+    <color name="editorColorPrimaryDark">#4e342e</color>
+
+    <!-- Tint for icons and add Image imageView-->
+    <color name="tintGray">#394450</color>
+
+    <!--EditText field background color-->
+    <color name="backgroundColorWhite">#ffffff</color>
+
+    <!--Color of main Book title-->
+    <color name="bookTitleColor">#2B3D4D</color>
+</resources>

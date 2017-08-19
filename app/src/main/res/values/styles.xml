@@ -1,0 +1,43 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Theme of the editor -->
+    <style name="EditorTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/editorColorPrimary</item>
+        <item name="colorPrimaryDark">@color/editorColorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="EditorImageStyle">
+        <item name="android:layout_width">@dimen/layoutWidth120dp</item>
+        <item name="android:layout_height">@dimen/layoutHeight160dp</item>
+    </style>
+
+    <style name="EditorIconStyle">
+        <item name="android:layout_width">@dimen/layoutWidth0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginLeft">@dimen/layoutMarginLeft4dp</item>
+        <item name="android:tint">@color/tintGray</item>
+    </style>
+
+    <style name="EditTextFieldParams">
+        <item name="android:layout_height">@dimen/layoutHeight30dp</item>
+        <item name="android:background">@color/backgroundColorWhite</item>
+        <item name="android:textSize">@dimen/textSize13</item>
+        <item name="android:paddingLeft">@dimen/paddingLeft2dp</item>
+    </style>
+
+    <style name="EditorTextViewStyle">
+        <item name="android:layout_width">@dimen/layoutWidth0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingRight">@dimen/paddingRight10dp</item>
+        <item name="android:textSize">@dimen/textSize14</item>
+    </style>
+</resources>
